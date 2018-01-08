@@ -278,3 +278,4 @@ def read_data_sets(train_dir,
 
 def load_mnist(train_dir='MNIST-data'):
   return read_data_sets(train_dir)
+  
